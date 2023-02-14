@@ -1,4 +1,4 @@
-Python==3.9.5
+Python==3.9
 pyarrow==10.0.1
 streamlit~=1.11.1
 graphviz==0.20
