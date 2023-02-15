@@ -4,5 +4,3 @@ streamlit~=1.11.1
 pysnowflake~=0.1.3
 snowflake-connector-python==3.0.0
 -r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v3.0.0/tested_requirements/requirements_39.txt
-
-
